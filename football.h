@@ -1,5 +1,6 @@
 #ifndef __LAB_H__
 #define __LAB_H__
+#include <stdio.h>
 
 /* Do not modify the function signatures here */
 

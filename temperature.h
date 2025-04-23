@@ -1,7 +1,6 @@
 #ifndef __REPORT_H__
 #define __REPORT_H__
-
-/* Add any function signatures you need here but do not modify the existing ones */
+#include <stdio.h>
 
 /**
  * @brief Convert temperature in Celsius to Fahrenheit
